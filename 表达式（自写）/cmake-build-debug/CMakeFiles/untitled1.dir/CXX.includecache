@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pengyizhuang/Code/Clion_Code/表达式（自写）/main.cpp
+my_stack.h
+/Users/pengyizhuang/Code/Clion_Code/表达式（自写）/my_stack.h
+
+/Users/pengyizhuang/Code/Clion_Code/表达式（自写）/my_stack.h
+iostream
+-
+string
+-
+cstdio
+-
+algorithm
+-
+
