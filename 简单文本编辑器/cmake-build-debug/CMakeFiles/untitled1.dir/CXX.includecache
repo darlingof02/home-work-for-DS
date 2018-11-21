@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pengyizhuang/Code/Clion_Code/简单文本编辑器/dbl_lk_list.h
+dbl_node.h
+/Users/pengyizhuang/Code/Clion_Code/简单文本编辑器/dbl_node.h
+stdlib.h
+-
+iostream
+-
+
+/Users/pengyizhuang/Code/Clion_Code/简单文本编辑器/dbl_node.h
+iostream
+-
+
+/Users/pengyizhuang/Code/Clion_Code/简单文本编辑器/main.cpp
+iostream
+-
+dbl_lk_list.h
+/Users/pengyizhuang/Code/Clion_Code/简单文本编辑器/dbl_lk_list.h
+string
+-
+fstream
+-
+

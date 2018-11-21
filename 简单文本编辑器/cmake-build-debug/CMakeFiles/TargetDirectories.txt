@@ -1,0 +1,3 @@
+/Users/pengyizhuang/Code/Clion_Code/简单文本编辑器/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pengyizhuang/Code/Clion_Code/简单文本编辑器/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pengyizhuang/Code/Clion_Code/简单文本编辑器/cmake-build-debug/CMakeFiles/untitled1.dir
